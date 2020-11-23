@@ -1,0 +1,6 @@
+2020-11-23 14:32:06.592  INFO 37534 --- [main] fm.taker.mvo.Application                 : Starting Application v0.3.0-SNAPSHOT on Noahs-MacBook-Pro-5.local with PID 37534 (/Users/noahalex/fm_m/fm-taker-mvo.jar started by noahalex in /Users/noahalex/fm_m)
+2020-11-23 14:32:06.607  INFO 37534 --- [main] fm.taker.mvo.Application                 : No active profile set, falling back to default profiles: default
+2020-11-23 14:32:09.867  INFO 37534 --- [main] fm.taker.mvo.Application                 : Started Application in 4.945 seconds (JVM running for 6.492)
+2020-11-23 14:32:10.158  INFO 37534 --- [main] fm.net.Configuration                     : File not found /Users/noahalex/.fm/endpoint
+2020-11-23 14:32:10.161  INFO 37534 --- [main] fm.net.Configuration                     : File not found /Users/noahalex/fm_m/main.sh/test03
+2020-11-23 14:32:10.161  INFO 37534 --- [main] fm.net.Configuration                     : File not found /Users/noahalex/fm_m/main.sh/endpoint
