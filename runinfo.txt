@@ -1,6 +1,0 @@
-java -jar fm-maker-mvo.jar -p=1000 -C=/Users/noahalex/fm_m/test00 -E=/Users/noahalex/fm_m/endpoint .0003 A .02 B .02
-java -jar fm-maker-mvo.jar -p=1000 -C=/Users/noahalex/fm_m/test01 -E=/Users/noahalex/fm_m/endpoint .0003 A .02 B .02
-java -jar fm-taker-mvo.jar -p=1000 -C=/Users/noahalex/fm_m/test02 -E=/Users/noahalex/fm_m/endpoint .0003 A .02 B .02
-java -jar fm-taker-mvo.jar -p=1000 -C=/Users/noahalex/fm_m/test03 -E=/Users/noahalex/fm_m/endpoint .0003 A .02 B .02
-java -jar fm-taker-mvo.jar -p=1000 -C=/Users/noahalex/fm_m/test04 -E=/Users/noahalex/fm_m/endpoint .0003 A .02 B .02
-java -jar fm-taker-mvo.jar -p=1000 -C=/Users/noahalex/fm_m/test05 -E=/Users/noahalex/fm_m/endpoint .0003 A .02 B .02
