@@ -4,9 +4,9 @@ file="" #test info file, not configured yet
 
 export spread=.02 #spread for MVO bots
 
-export endpoint=$0"/endpoint"
+export endpoint=$PWD"/endpoint"
 export options="-Xmx512m -Xms512m"
-export credential=$0"/test0"
+export credential=$PWD"/test0"
 export makers=1
 export takers=5
 export period=2000
