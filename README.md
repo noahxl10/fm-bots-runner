@@ -7,3 +7,4 @@
 * Flexemarkets algo bot JAR files
 ### Usage
 * Place downloaded bash script into the same directory as the credential, endpoint, and JAR files
+* Name test credential files "test00", "test01", "test02", etc. 
